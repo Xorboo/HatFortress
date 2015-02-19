@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Hat Fortress</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Hat Fortress</string>
+
+</resources>
